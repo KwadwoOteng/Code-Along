@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  font-size: 10px;
+}
+header {
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 1.5rem;
+  width: 100vw;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  align centre;
+  *backgrond-color: rgb(0, 3, 177)
+cornern
+
+}
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  background-color: gold;
+  justify-content: space-evenly;
+  width: 60%;
+}
+
+a {
+  text-decoration: none;
+}
